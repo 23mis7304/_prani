@@ -267,6 +267,7 @@ ul li a:hover{
         padding-top: 0;
     }
     .menu-icon{
+        cursor: pointer;
         display: block;
     }
     #menuList{
