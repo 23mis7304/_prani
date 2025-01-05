@@ -153,8 +153,9 @@ nav ul li a{
 
 
 ul li a:hover{
-    background: hsl(204, 70%, 43%);
-    transition: 1s ease;
+    background: hsl(120, 64%, 68%);
+    transition: 0.8s ease;
+    
 }
 
 
