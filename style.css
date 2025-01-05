@@ -258,7 +258,7 @@ ul li a:hover{
         right: 0;
         flex-direction: column;
         text-align: center;
-        background: #004274;
+        background: hsl(120, 64%, 55%);
         gap: 0;
         overflow: hidden;
     }
@@ -270,6 +270,7 @@ ul li a:hover{
         display: block;
     }
     #menuList{
+        margin-top: 10px;
         transition: all 0.5s;
     }
     .logo{
